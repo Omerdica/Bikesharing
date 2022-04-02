@@ -28,9 +28,24 @@ In this chart we look at the buisiest time of the weekday by hour. The data show
 
 Next we focus on two different types of costumers. The first being Subscribers who use the bike-sharing services very frequenly and the other being someone who uses it occasinaly. 
 
+![Code1](Images/Chart_4.png)
+
 ![Code1](Images/Custo_1.png)
 
 When we compare the two we can see that there are 1.9 Million Subscribers and 443,865 costumers.
 
 ![Code1](Images/Custo_2.png) 
+
+# Summary 
+
+Its very clear that males tend to use CitiBiki almost 3 times more than the females or other gender. Also by looking at the analysis we can see that majority of the bikes used were within the city center. As we look at the map of NYC we can see that major landmarks are in this area like The Empire State Building, Central Park, Rockefeller Center and in the lower Manhattan is the One World Trade Center. These tourist attractions combined with everyday users of CitiBike make it a succes. 
+
+![Code1](Images/City_Map_1.png) 
+
+Trying to find a way to implement CitiBike bike-sahring in Des Moines Iowa would be very hard as the city is very dispersed and the usage of these bikes would be very minimal.  
+
+
+[link to dashboard](https://public.tableau.com/views/Challenge_Tab/NYCCitiBikeChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+ 
 
